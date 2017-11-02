@@ -4,7 +4,7 @@ class RapidjsonConan(ConanFile):
     name = "RapidJSON"
     version = "1.1.0"
     license = "https://github.com/miloyip/rapidjson/blob/master/license.txt"
-    url = "https://github.com/dorant/conan-recipes"
+    url = "https://github.com/Brunni/conan-rapidjson"
     description = "A fast JSON parser/generator for C++ with both SAX/DOM style API"
 
     def source(self):
